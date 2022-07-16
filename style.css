@@ -1,0 +1,35 @@
+h1{
+    font-family : cursive;
+    font-style: italic;
+    font-weight: 200;
+    color:brown;
+}
+
+h4{
+    font-style :inherit;
+    color: purple;
+}
+
+#camera {
+    width : 500px;
+    height: 400;
+    border-color:red;
+}
+
+img{
+    width : 500px;
+    border-radius: 100px;
+    padding : 2px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+
+img:hover{
+    border-radius:140px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    width:100%;
+    bottom: 0px;
+    text-align:center;
+}
